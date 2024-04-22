@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native, NextJS 14**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN Development**
 
